@@ -1,0 +1,10 @@
+streamlit
+reportlab
+python-docx
+langchain
+langchain-community
+streamlit-option-menu
+langchain-groq
+tavily
+pymupdf
+fitz
